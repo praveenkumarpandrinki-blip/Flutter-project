@@ -32,8 +32,6 @@ Android Studio / VS Code| Development environment
 
 📂 Project Structure
 
-📂 Project Structure
-
 Flutter-project/
     my_flutter_project/
         lib/
