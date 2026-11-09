@@ -32,17 +32,17 @@ Android Studio / VS Code| Development environment
 
 📂 Project Structure
 
+📂 Project Structure
+
 Flutter-project/
-│
-├── my_flutter_project/
-│   ├── lib/
-│   │   └── main.dart
-│   ├── android/
-│   ├── ios/
-│   ├── test/
-│   └── pubspec.yaml
-│
-└── README.md
+    my_flutter_project/
+        lib/
+            main.dart
+        android/
+        ios/
+        test/
+        pubspec.yaml
+    README.md
 
 🚀 How to Run the Project
 
